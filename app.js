@@ -1,4 +1,3 @@
-// Кнопка змінює текст на 1 секунду після кліку
 const btn = document.querySelector("#changeTextBtn");
 if (btn) {
   btn.addEventListener("click", () => {
